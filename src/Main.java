@@ -9,7 +9,7 @@ public class Main {
         }
     }
 
-    public static boolean isPrime(int number)
+    public static boolean isPrime(int number){
         if (number < 2) {
             return false;
         }
